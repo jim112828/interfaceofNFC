@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">建築物智慧導引系統</string>
+    <string name="mode">搜救模式</string>
+    <string name="floor">你現在所在樓層:1f</string>
+    <string name="visual">平面圖</string>
+    <string name="reality">實際照片</string>
+    <string name="location">現在位置:105號房窗邊Tag</string>
+
+</resources>
